@@ -1,10 +1,11 @@
-# 🌑 Santos Nwachukwu  
-### Data Analyst | Business Intelligence | AI & Deep Learning  
+<h1 align = "center"> 🌑 Santos Nwachukwu  </h1>
+
+**`Data and Business Intelligence | AI & Deep Learning | Game Dev`**
 
 ```diff
-+ Turning data into decisions.
-+ Building systems by day.
-+ Building worlds by night.
++ Quiet rows of truth
++ Code breathes order into chaos
++ Midnight sparks new realms
 ```
 
 ---
@@ -87,7 +88,7 @@ Efficient energy management system activated.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINK  
+- 💼 LinkedIn: https://www.linkedin.com/in/santos-nwachukwu 
 - 🌐 Portfolio: https://www.datascienceportfol.io/santosnwachukwu  
 
 ---
