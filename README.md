@@ -64,17 +64,6 @@ Midnight sparks new realms
 
 ---
 
-## 👋 About Me
-
-I am a versatile data‑driven professional who thrives at the intersection of analytics, strategy, and technology. My strength lies in transforming complex information into clear insights, actionable solutions, and measurable business impact. With a strong command of modern data tools and a strategic mindset, I bridge the gap between technical execution and business decision‑making.
-I bring a unique blend of analytical rigor, problem‑solving ability, and communication skills—allowing me to collaborate effectively across technical and non‑technical teams. Whether optimizing workflows, building data products, or uncovering opportunities through analysis, I approach every challenge with curiosity, precision, and a commitment to delivering results that matter.
-My work is grounded in three core principles:
-clarity, efficiency, and impact.  
-I’m driven by the opportunity to turn raw data into meaningful outcomes that support smarter decisions, stronger performance, and scalable growth.
-Key Competencies
-
----
-
 ## 🧠 What I Focus On
 
 - 📊 Data storytelling & executive-ready dashboards  
