@@ -1,13 +1,40 @@
+<!-- Animated Cyberpunk Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chiefsantos-dev/chiefsantos-dev/main/cyberpunk.gif" alt="cyberpunk animated banner" width="100%" style="border-radius: 10px;" />
+</p>
+
+<!-- Profile Header with Image and About Me Combined -->
 <table>
   <tr>
+    <!-- Profile Image Column -->
     <td width="220" valign="top">
       <img src="https://github.com/chiefsantos-dev/chiefsantos-dev/blob/main/Sleep%20Faded.png" width="220" style="border-radius: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.4);" />
     </td>
-    <td valign="top">
-      <h1 align="center"> :ox: Santos Nwachukwu</h1>
-    </td>
+    
+
+<td valign="top">
+<h1>Hi 👋, I'm Santos Nwachukwu</h1>
+      
+<p><strong><code>Data and Business Intelligence | AI & Deep Learning | Game Dev</code></strong></p>
+      
+<pre>
+Quiet rows of truth
+Code breathes order into chaos
+Midnight sparks new realms
+</pre>
+      
+<h3>👋 About Me</h3>
+      
+<p>I am a versatile data‑driven professional who thrives at the intersection of analytics, strategy, and technology. My strength lies in transforming complex information into clear insights, actionable solutions, and measurable business impact. With a strong command of modern data tools and a strategic mindset, I bridge the gap between technical execution and business decision‑making.</p>
+      
+<p>I bring a unique blend of analytical rigor, problem‑solving ability, and communication skills—allowing me to collaborate effectively across technical and non‑technical teams. Whether optimizing workflows, building data products, or uncovering opportunities through analysis, I approach every challenge with curiosity, precision, and a commitment to delivering results that matter.</p>
+      
+<p>My work is grounded in three core principles: <strong>clarity, efficiency, and impact</strong>. I'm driven by the opportunity to turn raw data into meaningful outcomes that support smarter decisions, stronger performance, and scalable growth.</p>
+      
+    
   </tr>
 </table>
+
 
 ## 👥 Connect With Me
 
@@ -34,12 +61,6 @@
 <!-- REST OF YOUR CONTENT GOES HERE, OUTSIDE THE TABLE -->
 
 **`Data and Business Intelligence | AI & Deep Learning | Game Dev`**
-
-```diff
-+ Quiet rows of truth
-+ Code breathes order into chaos
-+ Midnight sparks new realms
-```
 
 ---
 
@@ -256,25 +277,10 @@ Key Competencies
 - Data-driven strategy  
 - Cross-functional collaboration  
 
----
-
-## ⚡ Fun Fact
-
-I can sleep standing up.  
-Efficient energy management system activated.
-
----
 
 ## 📊 GitHub Stats
 
 ![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/santos-nwachukwu 
-- 🌐 Portfolio: https://www.datascienceportfol.io/santosnwachukwu  
 
 ---
 
