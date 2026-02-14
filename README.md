@@ -60,7 +60,6 @@ Midnight sparks new realms
 
 <!-- REST OF YOUR CONTENT GOES HERE, OUTSIDE THE TABLE -->
 
-**`Data and Business Intelligence | AI & Deep Learning | Game Dev`**
 
 ---
 
