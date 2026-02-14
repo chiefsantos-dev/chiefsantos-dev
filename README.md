@@ -9,7 +9,30 @@
   </tr>
 </table>
 
+## 👥 Connect With Me
+
+<div align="center">
+  
+  **VISITORS**<br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=chiefsantos-dev.chiefsantos-dev" alt="visitors" /><br>
+  <br>
+  <a href="https://medium.com/@yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.linkedin.com/in/santos-nwachukwu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:santos.nwachukwu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://huggingface.co/SantosN1" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </a>
+  
+</div>
+
 <!-- REST OF YOUR CONTENT GOES HERE, OUTSIDE THE TABLE -->
+
 **`Data and Business Intelligence | AI & Deep Learning | Game Dev`**
 
 ```diff
@@ -22,19 +45,12 @@
 
 ## 👋 About Me
 
-I’m a **Data Analyst with a strong Business Intelligence foundation**, currently pursuing advanced studies in **Data Science and Deep Learning / AI**.
-
-My experience includes:
-
-- Designing KPI dashboards for executive decision-making  
-- Supporting data warehouse & ETL optimization initiatives  
-- Contributing to cybersecurity-focused technical research  
-- Implementing predictive models and automation workflows  
-- Improving operational efficiency by 50% through data-driven process optimization  
-
-I specialize in transforming raw data into actionable insights that drive measurable business outcomes.
-
-Outside of analytics, I build small games and system-based coding projects — a creative outlet today that I’m intentionally growing into a long-term technical strength.
+I am a versatile data‑driven professional who thrives at the intersection of analytics, strategy, and technology. My strength lies in transforming complex information into clear insights, actionable solutions, and measurable business impact. With a strong command of modern data tools and a strategic mindset, I bridge the gap between technical execution and business decision‑making.
+I bring a unique blend of analytical rigor, problem‑solving ability, and communication skills—allowing me to collaborate effectively across technical and non‑technical teams. Whether optimizing workflows, building data products, or uncovering opportunities through analysis, I approach every challenge with curiosity, precision, and a commitment to delivering results that matter.
+My work is grounded in three core principles:
+clarity, efficiency, and impact.  
+I’m driven by the opportunity to turn raw data into meaningful outcomes that support smarter decisions, stronger performance, and scalable growth.
+Key Competencies
 
 ---
 
@@ -262,16 +278,6 @@ Efficient energy management system activated.
 
 ---
 
-> “Data reveals patterns. Code builds systems. Curiosity drives both.”
-
-
-
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/chiefsantosdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/chiefsantosdev" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiefsantos-dev&show_icons=true&locale=en&layout=compact" alt="chiefsantos-dev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiefsantos-dev&show_icons=true&locale=en" alt="chiefsantos-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiefsantos-dev&" alt="chiefsantos-dev" /></p>
