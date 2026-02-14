@@ -1,3 +1,7 @@
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
 <h1 align = "center"> 🌑 Santos Nwachukwu  </h1>
 
 **`Data and Business Intelligence | AI & Deep Learning | Game Dev`**
