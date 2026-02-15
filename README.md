@@ -227,6 +227,7 @@ Midnight sparks new realms
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🚀 Current Growth
