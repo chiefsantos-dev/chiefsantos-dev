@@ -34,43 +34,42 @@ Midnight sparks new realms
   </tr>
 </table>
 
-
 ## 👥 Connect With Me
 
 <div align="center">
   
-  **VISITORS**<br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=chiefsantos-dev.chiefsantos-dev" alt="visitors" /><br>
+  <!-- Visitors Black Box -->
+  <div style="background-color: #000000; border: 2px solid #333333; border-radius: 10px; padding: 15px 30px; display: inline-block; margin-bottom: 20px;">
+    <strong style="color: #ffffff; font-size: 18px;">VISITORS</strong><br>
+    <span style="color: #ffffff; font-size: 32px; font-weight: bold;">19,918</span>
+  </div>
+  
   <br>
   
-  <!-- Professional Portfolio -->
+  <!-- Social Links -->
   <a href="https://www.datascienceportfol.io/santosnwachukwu" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  
-  <!-- Primary Professional Network -->
   <a href="https://www.linkedin.com/in/santos-nwachukwu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <!-- Technical Q&A -->
   <a href="https://stackoverflow.com/users/16481069/santos-nwachukwu" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
-  
-  <!-- Dev Community -->
   <a href="https://dev.to/chiefsantosdev" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
-  
-  <!-- AI/ML Community -->
   <a href="https://huggingface.co/SantosN1" target="_blank">
     <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   </a>
-  
-  <!-- Contact -->
   <a href="mailto:santos.nwachukwu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  
+  <!-- Resume Link -->
+  <br><br>
+  <a href="https://github.com/chiefsantos-dev/chiefsantos-dev/blob/main/Santos_Nwachukwu_BI_Analyst_2025.docx" target="_blank">
+    <img src="https://img.shields.io/badge/📄-Download_Resume-2A6DF4?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Resume" />
   </a>
   
 </div>
@@ -84,12 +83,12 @@ Midnight sparks new realms
 
 | Domain | Focus Areas | Projects | Certifications | Proficiency |
 |--------|-------------|----------|----------------|-------------|
-| 📊 **Data Visualization** | Data storytelling, executive-ready dashboards | • Executive KPI Dashboard<br>• Sales Performance Tracker<br>• Real-time Analytics Dashboard | • Tableau Desktop Specialist<br>• Microsoft Power BI Data Analyst | ⭐⭐⭐⭐⭐ |
-| 🗄 **Data Engineering** | Data warehousing, ETL workflows, data modeling | • Automated ETL Pipeline<br>• Data Warehouse Migration<br>• Real-time Data Streaming | • AWS Certified Data Analytics<br>• Databricks Fundamentals | ⭐⭐⭐⭐ |
-| 📈 **Business Analytics** | KPI optimization, performance analytics, revenue forecasting | • Revenue Forecasting Model<br>• Customer Segmentation Analysis<br>• Churn Prediction Dashboard | • Google Data Analytics<br>• Microsoft Certified: Data Analyst Associate | ⭐⭐⭐⭐⭐ |
-| 🔐 **Data Governance** | Cybersecurity analytics, compliance, data quality frameworks | • Compliance Monitoring System<br>• Data Quality Audit Framework<br>• GDPR/CCPA Compliance Tracker | • Certified Information Privacy Professional (CIPP)<br>• Data Governance Certified | ⭐⭐⭐ |
-| 🤖 **Machine Learning** | Predictive modeling, AI workflows, deep learning | • Customer Churn Predictor<br>• Recommendation Engine<br>• Sentiment Analysis Tool | • TensorFlow Developer Certificate<br>• AWS Machine Learning Specialty | ⭐⭐⭐⭐ |
-| 🎮 **Game Systems** | Logic design, mechanics development, interactive experiences | • 2D Platformer Prototype<br>• Puzzle Game Mechanics<br>• Interactive Story Game | • Godot Game Developer<br>• Unity Certified User | ⭐⭐⭐ |
+| 📊 **Data Visualization** | <p><strong><code>Data storytelling</code></strong></p><p><strong><code>Executive dashboards</code></strong></p> | <p><strong><code>Executive KPI Dashboard</code></strong></p><p><strong><code>Sales Performance Tracker</code></strong></p><p><strong><code>Real-time Analytics Dashboard</code></strong></p> | <p><strong><code>Tableau Desktop Specialist</code></strong></p><p><strong><code>Microsoft Power BI Data Analyst</code></strong></p> | ⭐⭐⭐⭐⭐ |
+| 🗄 **Data Engineering** | <p><strong><code>Data warehousing</code></strong></p><p><strong><code>ETL workflows</code></strong></p><p><strong><code>Data modeling</code></strong></p> | <p><strong><code>Automated ETL Pipeline</code></strong></p><p><strong><code>Data Warehouse Migration</code></strong></p><p><strong><code>Real-time Data Streaming</code></strong></p> | <p><strong><code>AWS Certified Data Analytics</code></strong></p><p><strong><code>Databricks Fundamentals</code></strong></p> | ⭐⭐⭐⭐ |
+| 📈 **Business Analytics** | <p><strong><code>KPI optimization</code></strong></p><p><strong><code>Performance analytics</code></strong></p><p><strong><code>Revenue forecasting</code></strong></p> | <p><strong><code>Revenue Forecasting Model</code></strong></p><p><strong><code>Customer Segmentation Analysis</code></strong></p><p><strong><code>Churn Prediction Dashboard</code></strong></p> | <p><strong><code>Google Data Analytics</code></strong></p><p><strong><code>Microsoft Certified: Data Analyst Associate</code></strong></p> | ⭐⭐⭐⭐⭐ |
+| 🔐 **Data Governance** | <p><strong><code>Cybersecurity analytics</code></strong></p><p><strong><code>Compliance</code></strong></p><p><strong><code>Data quality frameworks</code></strong></p> | <p><strong><code>Compliance Monitoring System</code></strong></p><p><strong><code>Data Quality Audit Framework</code></strong></p><p><strong><code>GDPR/CCPA Compliance Tracker</code></strong></p> | <p><strong><code>Certified Information Privacy Professional (CIPP)</code></strong></p><p><strong><code>Data Governance Certified</code></strong></p> | ⭐⭐⭐ |
+| 🤖 **Machine Learning** | <p><strong><code>Predictive modeling</code></strong></p><p><strong><code>AI workflows</code></strong></p><p><strong><code>Deep learning</code></strong></p> | <p><strong><code>Customer Churn Predictor</code></strong></p><p><strong><code>Recommendation Engine</code></strong></p><p><strong><code>Sentiment Analysis Tool</code></strong></p> | <p><strong><code>TensorFlow Developer Certificate</code></strong></p><p><strong><code>AWS Machine Learning Specialty</code></strong></p> | ⭐⭐⭐⭐ |
+| 🎮 **Game Systems** | <p><strong><code>Logic design</code></strong></p><p><strong><code>Mechanics development</code></strong></p><p><strong><code>Interactive experiences</code></strong></p> | <p><strong><code>2D Platformer Prototype</code></strong></p><p><strong><code>Puzzle Game Mechanics</code></strong></p><p><strong><code>Interactive Story Game</code></strong></p> | <p><strong><code>Godot Game Developer</code></strong></p><p><strong><code>Unity Certified User</code></strong></p> | ⭐⭐⭐ |
 
 </div>
 
@@ -243,12 +242,72 @@ Midnight sparks new realms
 
 ---
 
-## 🚀 Current Growth
+## 📈 Current Growth Dashboard
 
-- Advancing in Deep Learning & AI systems  
-- Exploring scalable data pipelines  
-- Strengthening cloud-based analytics architecture  
-- Designing polished 2D game systems  
+<div align="center">
+
+| Learning Path | Progress | Timeline | Milestones |
+|--------------|----------|----------|------------|
+| **Deep Learning & AI Systems** | <img src="https://progress-bar.dev/75/?title=progress&width=200" /> | ▰▰▰▰▰▰▰▰▰▰ 10 weeks | • CNN Architecture ✅<br>• Transformers 🔄<br>• Model Deployment 📅 |
+| **Scalable Data Pipelines** | <img src="https://progress-bar.dev/60/?title=progress&width=200" /> | ▰▰▰▰▰▰▰▰▰▰ 8 weeks | • Kafka Setup ✅<br>• Airflow DAGs 🔄<br>• Real-time Streaming 📅 |
+| **Cloud Analytics Architecture** | <img src="https://progress-bar.dev/45/?title=progress&width=200" /> | ▰▰▰▰▰▰▰▰▰▰ 6 weeks | • AWS Lambda ✅<br>• Snowflake Integration 🔄<br>• Cost Optimization 📅 |
+| **2D Game Systems Design** | <img src="https://progress-bar.dev/85/?title=progress&width=200" /> | ▰▰▰▰▰▰▰▰▰▰ 12 weeks | • Mechanic Prototypes ✅<br>• Level Design 🔄<br>• Polish & Release 📅 |
+
+</div>
+
+### 🎯 Skill Development Tracker
+
+<div align="center">
+
+| Domain | Tech Skill | Pixel/Game Skill | Art Skill | Priority | Type |
+|--------|------------|------------------|-----------|----------|------|
+| **Deep Learning** | <code>Transformer Models</code> | <code>AI Behavior Trees</code> | <code>Data Visualization</code> | 🔴 **High** | 💼 Professional |
+| **Data Engineering** | <code>Kafka Streaming</code> | <code>Real-time Analytics</code> | <code>Dashboard Design</code> | 🔴 **High** | 💼 Professional |
+| **Cloud Architecture** | <code>AWS Lambda</code> | <code>Multi-cloud Strategy</code> | <code>Architecture Diagrams</code> | 🟡 **Medium** | 💼 Professional |
+| **Game Development** | <code>Godot GDScript</code> | <code>2D Physics</code> | <code>Pixel Art</code> | 🟢 **Low** | 🎮 Hobby |
+| **Game Design** | <code>Level Design</code> | <code>Game Mechanics</code> | <code>Sprite Animation</code> | 🟢 **Low** | 🎮 Hobby |
+| **Creative Coding** | <code>Procedural Generation</code> | <code>Particle Systems</code> | <code>Color Theory</code> | 🟡 **Medium** | 🎨 Passion Project |
+
+</div>
+
+### 📅 Monthly Milestone Tracker
+
+<div align="center">
+
+| Month | Focus Area | Key Deliverable | Status |
+|-------|------------|-----------------|--------|
+| **March** | Deep Learning | Transformer Model Implementation | 🟢 Completed |
+| **April** | Data Pipelines | Real-time Streaming Pipeline | 🟡 In Progress |
+| **May** | Cloud Architecture | Multi-cloud Analytics Framework | ⚪ Planned |
+| **June** | Game Systems | Complete Game Demo Release | 🟡 In Progress |
+
+</div>
+
+### 📊 Progress Summary Cards
+
+<div align="center">
+  
+| 🧠 Deep Learning | 🗄️ Data Pipelines | ☁️ Cloud Architecture | 🎮 Game Dev |
+|:----------------:|:------------------:|:---------------------:|:-----------:|
+| <img src="https://progress-bar.dev/75/" width="150" /> | <img src="https://progress-bar.dev/60/" width="150" /> | <img src="https://progress-bar.dev/45/" width="150" /> | <img src="https://progress-bar.dev/85/" width="150" /> |
+| 75% Complete | 60% Complete | 45% Complete | 85% Complete |
+| ETA: 4 weeks | ETA: 6 weeks | ETA: 8 weeks | ETA: 2 weeks |
+
+</div>
+
+---
+
+### 🚀 Current Focus Areas
+
+<div align="center">
+  
+| Priority | Area | Current Milestone | Hours Logged |
+|----------|------|-------------------|--------------|
+| 🔴 **High** | Deep Learning - Transformers | Attention mechanism implementation | 45 hrs |
+| 🟡 **Medium** | Data Pipelines - Kafka | Stream processing setup | 32 hrs |
+| 🟢 **Low** | Game Systems - Level Design | Prototype testing | 55 hrs |
+
+</div>
 
 ---
 
