@@ -9,6 +9,11 @@
     <!-- Profile Image Column -->
     <td width="220" valign="top">
       <img src="https://github.com/chiefsantos-dev/chiefsantos-dev/blob/main/Sleep%20Faded.png" width="220" style="border-radius: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.4);" />
+      <p>
+  <a href="https://www.instagram.com/jeuoyl?igsh=MTF2NGRucTdscmZybw%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/🎨-Credit_to_Elih-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Credit to Elih for avatar art" />
+  </a>
+</p>
     </td>
     
 
