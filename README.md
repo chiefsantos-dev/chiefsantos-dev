@@ -42,46 +42,56 @@ Midnight sparks new realms
   **VISITORS**<br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chiefsantos-dev.chiefsantos-dev" alt="visitors" /><br>
   <br>
-  <a href="https://medium.com/@yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  
+  <!-- Professional Portfolio -->
+  <a href="https://www.datascienceportfol.io/santosnwachukwu" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
+  
+  <!-- Primary Professional Network -->
   <a href="https://www.linkedin.com/in/santos-nwachukwu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:santos.nwachukwu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  
+  <!-- Technical Q&A -->
+  <a href="https://stackoverflow.com/users/16481069/santos-nwachukwu" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
+  
+  <!-- Dev Community -->
+  <a href="https://dev.to/chiefsantosdev" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  
+  <!-- AI/ML Community -->
   <a href="https://huggingface.co/SantosN1" target="_blank">
     <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </a>
+  
+  <!-- Contact -->
+  <a href="mailto:santos.nwachukwu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   
 </div>
 
 <!-- REST OF YOUR CONTENT GOES HERE, OUTSIDE THE TABLE -->
 
-
 ---
+## 🧠 Areas of Expertise
 
-## 🧠 What I Focus On
+<div align="center">
 
-- 📊 Data storytelling & executive-ready dashboards  
-- 🗄 Data warehousing & ETL workflows  
-- 📈 KPI optimization & performance analytics  
-- 🔐 Data governance & cybersecurity analytics  
-- 🤖 Machine learning & predictive modeling  
-- 🎮 Systems logic & game mechanics design  
+| Domain | Focus Areas | Projects | Certifications | Proficiency |
+|--------|-------------|----------|----------------|-------------|
+| 📊 **Data Visualization** | Data storytelling, executive-ready dashboards | • Executive KPI Dashboard<br>• Sales Performance Tracker<br>• Real-time Analytics Dashboard | • Tableau Desktop Specialist<br>• Microsoft Power BI Data Analyst | ⭐⭐⭐⭐⭐ |
+| 🗄 **Data Engineering** | Data warehousing, ETL workflows, data modeling | • Automated ETL Pipeline<br>• Data Warehouse Migration<br>• Real-time Data Streaming | • AWS Certified Data Analytics<br>• Databricks Fundamentals | ⭐⭐⭐⭐ |
+| 📈 **Business Analytics** | KPI optimization, performance analytics, revenue forecasting | • Revenue Forecasting Model<br>• Customer Segmentation Analysis<br>• Churn Prediction Dashboard | • Google Data Analytics<br>• Microsoft Certified: Data Analyst Associate | ⭐⭐⭐⭐⭐ |
+| 🔐 **Data Governance** | Cybersecurity analytics, compliance, data quality frameworks | • Compliance Monitoring System<br>• Data Quality Audit Framework<br>• GDPR/CCPA Compliance Tracker | • Certified Information Privacy Professional (CIPP)<br>• Data Governance Certified | ⭐⭐⭐ |
+| 🤖 **Machine Learning** | Predictive modeling, AI workflows, deep learning | • Customer Churn Predictor<br>• Recommendation Engine<br>• Sentiment Analysis Tool | • TensorFlow Developer Certificate<br>• AWS Machine Learning Specialty | ⭐⭐⭐⭐ |
+| 🎮 **Game Systems** | Logic design, mechanics development, interactive experiences | • 2D Platformer Prototype<br>• Puzzle Game Mechanics<br>• Interactive Story Game | • Godot Game Developer<br>• Unity Certified User | ⭐⭐⭐ |
 
----
-
-## 💬 Ask Me About
-
-- Power BI & Tableau dashboard architecture  
-- Python for analytics (Pandas, TensorFlow, automation)  
-- SQL querying & database structuring  
-- AWS-based analytics workflows  
-- Business metrics & performance tracking  
-- Turning messy data into strategic recommendations  
-- Game development logic using Godot & GDevelop  
+</div>
 
 ---
 
