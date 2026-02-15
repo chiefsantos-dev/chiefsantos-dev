@@ -13,7 +13,10 @@
     
 
 <td valign="top">
-<h1>Hi 👋, I'm Santos Nwachukwu</h1>
+<h1><div align="center">
+  👋 Hey there! I'm Santos. Let's create something great together. 💻
+</div></h1>
+
       
 <p><strong><code>Data and Business Intelligence | AI & Deep Learning | Game Dev</code></strong></p>
       
@@ -23,7 +26,7 @@ Code breathes order into chaos
 Midnight sparks new realms
 </pre>
       
-<h3>👋 About Me</h3>
+<h3 align = "center">👋 About Me</h3>
       
 <p><strong><code>I am a versatile data‑driven professional who thrives at the intersection of analytics, strategy, and technology. My strength lies in transforming complex information into clear insights, actionable solutions, and measurable business impact. With a strong command of modern data tools and a strategic mindset, I bridge the gap between technical execution and business decision‑making. I bring a unique blend of analytical rigor, problem‑solving ability, and communication skills—allowing me to collaborate effectively across technical and non‑technical teams. Whether optimizing workflows, building data products, or uncovering opportunities through analysis, I approach every challenge with curiosity, precision, and a commitment to delivering results that matter. My work is grounded in three core principles: <strong>clarity, efficiency, and impact</strong>. I'm driven by the opportunity to turn raw data into meaningful outcomes that support smarter decisions, stronger performance, and scalable growth.</code></strong></p>
       
@@ -246,13 +249,6 @@ Midnight sparks new realms
 - Cost-reduction analytics  
 - Data-driven strategy  
 - Cross-functional collaboration  
-
-
-## 📊 GitHub Stats
-
-![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiefsantos-dev&show_icons=true&theme=tokyonight)
-
----
 
 
 <h3 align="left">Support:</h3>
