@@ -25,11 +25,7 @@ Midnight sparks new realms
       
 <h3>👋 About Me</h3>
       
-<p>I am a versatile data‑driven professional who thrives at the intersection of analytics, strategy, and technology. My strength lies in transforming complex information into clear insights, actionable solutions, and measurable business impact. With a strong command of modern data tools and a strategic mindset, I bridge the gap between technical execution and business decision‑making.</p>
-      
-<p>I bring a unique blend of analytical rigor, problem‑solving ability, and communication skills—allowing me to collaborate effectively across technical and non‑technical teams. Whether optimizing workflows, building data products, or uncovering opportunities through analysis, I approach every challenge with curiosity, precision, and a commitment to delivering results that matter.</p>
-      
-<p>My work is grounded in three core principles: <strong>clarity, efficiency, and impact</strong>. I'm driven by the opportunity to turn raw data into meaningful outcomes that support smarter decisions, stronger performance, and scalable growth.</p>
+<p><strong><code>I am a versatile data‑driven professional who thrives at the intersection of analytics, strategy, and technology. My strength lies in transforming complex information into clear insights, actionable solutions, and measurable business impact. With a strong command of modern data tools and a strategic mindset, I bridge the gap between technical execution and business decision‑making. I bring a unique blend of analytical rigor, problem‑solving ability, and communication skills—allowing me to collaborate effectively across technical and non‑technical teams. Whether optimizing workflows, building data products, or uncovering opportunities through analysis, I approach every challenge with curiosity, precision, and a commitment to delivering results that matter. My work is grounded in three core principles: <strong>clarity, efficiency, and impact</strong>. I'm driven by the opportunity to turn raw data into meaningful outcomes that support smarter decisions, stronger performance, and scalable growth.</code></strong></p>
       
     
   </tr>
@@ -231,6 +227,8 @@ Midnight sparks new realms
     </td>
   </tr>
 </table>
+---
+
 ## 🚀 Current Growth
 
 - Advancing in Deep Learning & AI systems  
@@ -251,7 +249,7 @@ Midnight sparks new realms
 
 ## 📊 GitHub Stats
 
-![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiefsantos-dev&show_icons=true&theme=tokyonight)
 
 ---
 
