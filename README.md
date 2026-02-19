@@ -316,14 +316,5 @@ Midnight sparks new realms
 
 ---
 
-## 📌 Themes in My Work
-
-- Operational optimization  
-- Predictive modeling  
-- Cost-reduction analytics  
-- Data-driven strategy  
-- Cross-functional collaboration  
-
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/chiefsantosdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/chiefsantosdev" /></a></p><br><br>
